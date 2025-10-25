@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Miki\Desktop\Mikołaj Bednarczyk\Studia\Semestr 2\Programowanie obiektowe\Ćwiczenia laby\Lab 1\main.cpp(28,2): warning C4091: "typedef ": zignorowano na lewo od "Batonik" podczas gdy brak deklaracji zmiennej
+C:\Users\Miki\Desktop\Mikołaj Bednarczyk\Studia\Semestr 2\Programowanie obiektowe\Ćwiczenia laby\Lab 1\main.cpp(69,6): warning C4101: "T2": lokalna zmienna, do której nie istnieje odwołanie
+  Lab 1.vcxproj -> C:\Users\Miki\Desktop\Mikołaj Bednarczyk\Studia\Semestr 2\Programowanie obiektowe\Ćwiczenia laby\Laboratorium Programowanie Obiektowe 2024\x64\Debug\Lab 1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
